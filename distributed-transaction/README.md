@@ -5,6 +5,7 @@
     seata
 
         https://github.com/seata/seata/wiki/Home_Chinese
+        https://mp.weixin.qq.com/s/Nb3qeOXXW1xa-qFr-uNi9g
         Seata---demo搭建指南:  https://www.jianshu.com/p/2c784ffd2448
         https://github.com/seata/seata-samples
 
