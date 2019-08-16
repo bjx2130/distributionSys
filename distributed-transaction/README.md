@@ -6,6 +6,7 @@
 
         https://github.com/seata/seata/wiki/Home_Chinese
         Seata---demo搭建指南:  https://www.jianshu.com/p/2c784ffd2448
+        https://github.com/seata/seata-samples
 
     EasyTransaction
 
