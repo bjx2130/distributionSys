@@ -9,6 +9,11 @@
         https://mp.weixin.qq.com/s/Nb3qeOXXW1xa-qFr-uNi9g
         Seata---demo搭建指南:  https://www.jianshu.com/p/2c784ffd2448
         https://github.com/seata/seata-samples
+        
+        seata修改 registry.conf  type=nacos 为配置中心 ：
+                https://github.com/seata/seata-samples/tree/master/nacos  
+                搜索 【Step 7 启动 Seata-Server】 查看初始化nacos 配置信息
+        
 
     EasyTransaction
 
