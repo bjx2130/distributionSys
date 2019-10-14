@@ -2,6 +2,8 @@
 
     Seata 分布式事务实践和开源详解
         https://www.sofastack.tech/blog/seata-distributed-transaction-deep-dive/
+        https://juejin.im/post/5a9cb1bf6fb9a028c06a4f6b
+        https://tech.antfin.com/products/DTX
 
     seata
 
