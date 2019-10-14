@@ -16,17 +16,16 @@
         seata修改 registry.conf  type=nacos 为配置中心 ：
                 https://github.com/seata/seata-samples/tree/master/nacos  
                 搜索 【Step 7 启动 Seata-Server】 查看初始化nacos 配置信息
-        
+    
+    
+    TX-LCN
+        https://www.txlcn.org/zh-cn/
+    
 
     EasyTransaction
 
         https://github.com/QNJR-GROUP/EasyTransaction
         https://www.cnblogs.com/skyesx/p/10674700.html
-
-
-    Hmily
-
-        https://dromara.org/website/zh-cn/docs/hmily/admin.html
 
 
 
