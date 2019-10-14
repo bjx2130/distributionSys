@@ -1,6 +1,7 @@
 # 分布式事务比较
 
- 
+    Seata 分布式事务实践和开源详解
+        https://www.sofastack.tech/blog/seata-distributed-transaction-deep-dive/
 
     seata
 
